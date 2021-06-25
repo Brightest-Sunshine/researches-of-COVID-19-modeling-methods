@@ -1,1 +1,1 @@
-# researches-of-COVID-19-modeling-methods
+# Researches of COVID-19 modeling methods
